@@ -20,5 +20,5 @@ Pandas (for data management)
 Dataset
 The dataset used in this project is publicly available and contains images of flowers (roses and tulips). It is downloaded and extracted directly from TensorFlow’s example storage.
 
-3. Results
+Results
 You can evaluate the model’s performance after training by checking the accuracy on the validation dataset.
