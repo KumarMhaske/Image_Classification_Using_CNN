@@ -1,4 +1,4 @@
-#Image Classification using Convolutional Neural Networks (CNN)
+**Image Classification using Convolutional Neural Networks (CNN)**
 
 This repository contains a project focused on image classification using Convolutional Neural Networks (CNNs). The goal of this project is to classify images of flowers (roses and tulips) using TensorFlow and Keras.
 
